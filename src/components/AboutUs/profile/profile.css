@@ -1,0 +1,19 @@
+
+.aboutus .text_paragraphs{
+    line-height: 2;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    color: #696868;
+    font-weight: 100;
+    text-align: justify;
+}
+
+.at-section__title_about {
+    margin: 0 0 70px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 2.625rem;
+    text-align: center;
+}
